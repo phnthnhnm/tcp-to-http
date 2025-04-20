@@ -29,3 +29,5 @@ go.work.sum
 
 # compiled binaries
 tcp-to-http
+
+assets/
